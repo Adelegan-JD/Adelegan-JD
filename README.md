@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Adelegan-JD
-- 👀 I’m interested in data science, bioinformatics, education
-- 🌱 I’m currently learning data science and bioinformatics 
-- 💞️ I’m looking to collaborate on projects related to bioinformatics
+- 👋 Hi, I’m Adelegan Deborah
+- 👀 I’m interested in data science, bioinformatics, and education
+- 🌱 I’m currently learning AI Engineering
+- 💞️ I’m looking to collaborate on projects related to Machine Learning and AI Engineering
 - 📫 You can reach me via LinkedIn: Deborah Jesudemilade
 
 <!---
